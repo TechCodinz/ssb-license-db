@@ -1,14 +1,20 @@
 {
   "licenses": [
     {
-      "key": "SSB-PRO-TEST-001",
-      "plan": "PRO-30D",
-      "expires": "2025-02-28",
+      "key": "SSB-STD-0001",
+      "plan": "STANDARD",
+      "expires": "2099-12-31",
       "status": "active"
     },
     {
-      "key": "SSB-PRO-LIFE-001",
-      "plan": "LIFETIME",
+      "key": "SSB-PRO-0001",
+      "plan": "PRO",
+      "expires": "2099-12-31",
+      "status": "active"
+    },
+    {
+      "key": "SSB-ELITE-0001",
+      "plan": "ELITE",
       "expires": "2099-12-31",
       "status": "active"
     }
