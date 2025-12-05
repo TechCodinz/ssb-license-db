@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "key": "SSB-PRO-TEST-001",
+      "plan": "PRO-30D",
+      "expires": "2025-02-28",
+      "status": "active"
+    },
+    {
+      "key": "SSB-PRO-LIFE-001",
+      "plan": "LIFETIME",
+      "expires": "2099-12-31",
+      "status": "active"
+    }
+  ]
+}
